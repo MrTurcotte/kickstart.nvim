@@ -1,3 +1,9 @@
+# Disclaimer!
+
+I am not the creator of this repository.  It is a fork of the fantastic work by "nvim-lua".  This will be my personal repo for changes.
+
+https://github.com/nvim-lua/kickstart.nvim
+
 # kickstart.nvim
 
 ## Introduction
